@@ -4,7 +4,7 @@ Team 02 & 09
 - Trang Nguyen: tnguy70@ur.rochester.edu
 - Surya Iyer: siyer9@ur.rochester.edu
 - Yizhi Lan: ylan5@ur.rochester.edu
-- Adina Scheinfeld: Adina.Scheinfeld20@bcmail.cuny.edu
+- Adina Scheinfeld: adina.scheinfeld20@bcmail.cuny.edu
 - Ajinkya Deshmukh: adeshmu2@ur.rochester.edu
 - Khoi Tran: trankho@mail.gvsu.edu
 
